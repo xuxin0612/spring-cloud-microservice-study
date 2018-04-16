@@ -1,0 +1,4 @@
+/Users/xuxin/git_repo/spring-cloud-microservice-study/microservice-consumer-movie-feign-with-hystrix/src/main/java/com/itmuch/cloud/study/user/entity/User.java
+/Users/xuxin/git_repo/spring-cloud-microservice-study/microservice-consumer-movie-feign-with-hystrix/src/main/java/com/itmuch/cloud/study/user/feign/UserFeignHystrixClient.java
+/Users/xuxin/git_repo/spring-cloud-microservice-study/microservice-consumer-movie-feign-with-hystrix/src/main/java/com/itmuch/cloud/study/MovieFeignHystrixApplication.java
+/Users/xuxin/git_repo/spring-cloud-microservice-study/microservice-consumer-movie-feign-with-hystrix/src/main/java/com/itmuch/cloud/study/user/controller/FeignHystrixController.java

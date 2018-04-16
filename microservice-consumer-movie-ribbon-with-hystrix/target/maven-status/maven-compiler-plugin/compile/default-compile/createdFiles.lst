@@ -1,0 +1,4 @@
+com/itmuch/cloud/study/MovieRibbonHystrixApplication.class
+com/itmuch/cloud/study/user/controller/RibbonHystrixController.class
+com/itmuch/cloud/study/user/service/RibbonHystrixService.class
+com/itmuch/cloud/study/user/entity/User.class

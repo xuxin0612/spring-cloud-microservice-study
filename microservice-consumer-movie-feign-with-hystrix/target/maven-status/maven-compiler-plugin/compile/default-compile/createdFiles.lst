@@ -1,0 +1,5 @@
+com/itmuch/cloud/study/MovieFeignHystrixApplication.class
+com/itmuch/cloud/study/user/feign/UserFeignHystrixClient.class
+com/itmuch/cloud/study/user/feign/UserFeignHystrixClient$HystrixClientFallback.class
+com/itmuch/cloud/study/user/entity/User.class
+com/itmuch/cloud/study/user/controller/FeignHystrixController.class

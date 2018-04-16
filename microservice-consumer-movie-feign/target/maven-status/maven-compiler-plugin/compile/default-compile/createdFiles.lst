@@ -1,0 +1,4 @@
+com/itmuch/cloud/study/user/feign/UserFeignClient.class
+com/itmuch/cloud/study/user/controller/FeignController.class
+com/itmuch/cloud/study/MovieFeignApplication.class
+com/itmuch/cloud/study/user/entity/User.class
