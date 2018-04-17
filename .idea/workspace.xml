@@ -1,7 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95e61dc6-bc43-4363-8dae-e6795344bda1" name="Default" comment="" />
+    <list default="true" id="95e61dc6-bc43-4363-8dae-e6795344bda1" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-api-gateway/target/classes/application.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-api-gateway/target/classes/com/itmuch/cloud/study/ZuulApiGatewayApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-api-gateway/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-api-gateway/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-api-gateway/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-config-client/target/classes/application.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-config-client/target/classes/bootstrap.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-config-client/target/classes/com/itmuch/cloud/study/ConfigClientApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-config-client/target/classes/com/itmuch/cloud/study/controller/ConfigClientController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-config-client/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-config-client/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-config-client/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-config-server/target/classes/application.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-config-server/target/classes/com/itmuch/cloud/study/ConfigServerApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-config-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-config-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-config-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-feign-with-hystrix/target/classes/application.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-feign-with-hystrix/target/classes/com/itmuch/cloud/study/MovieFeignHystrixApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-feign-with-hystrix/target/classes/com/itmuch/cloud/study/user/controller/FeignHystrixController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-feign-with-hystrix/target/classes/com/itmuch/cloud/study/user/entity/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-feign-with-hystrix/target/classes/com/itmuch/cloud/study/user/feign/UserFeignHystrixClient$HystrixClientFallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-feign-with-hystrix/target/classes/com/itmuch/cloud/study/user/feign/UserFeignHystrixClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-feign-with-hystrix/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-feign-with-hystrix/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-feign-with-hystrix/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-feign/target/classes/application.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-feign/target/classes/com/itmuch/cloud/study/MovieFeignApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-feign/target/classes/com/itmuch/cloud/study/user/controller/FeignController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-feign/target/classes/com/itmuch/cloud/study/user/entity/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-feign/target/classes/com/itmuch/cloud/study/user/feign/UserFeignClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-feign/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-feign/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-feign/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-ribbon-with-hystrix/target/classes/application.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-ribbon-with-hystrix/target/classes/com/itmuch/cloud/study/MovieRibbonHystrixApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-ribbon-with-hystrix/target/classes/com/itmuch/cloud/study/user/controller/RibbonHystrixController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-ribbon-with-hystrix/target/classes/com/itmuch/cloud/study/user/entity/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-ribbon-with-hystrix/target/classes/com/itmuch/cloud/study/user/service/RibbonHystrixService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-ribbon-with-hystrix/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-ribbon-with-hystrix/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-ribbon-with-hystrix/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-ribbon/target/classes/application.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-ribbon/target/classes/com/itmuch/cloud/study/MovieRibbonApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-ribbon/target/classes/com/itmuch/cloud/study/user/controller/RibbonController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-ribbon/target/classes/com/itmuch/cloud/study/user/entity/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-ribbon/target/classes/com/itmuch/cloud/study/user/service/RibbonService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-ribbon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-ribbon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-consumer-movie-ribbon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-discovery-eureka/target/Dockerfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-discovery-eureka/target/classes/META-INF/build-info.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-discovery-eureka/target/classes/application.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-discovery-eureka/target/classes/com/itmuch/cloud/study/EurekaApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-discovery-eureka/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-discovery-eureka/target/maven-status/maven-compiler-plugin/compile/default-cli/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-discovery-eureka/target/maven-status/maven-compiler-plugin/compile/default-cli/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-discovery-eureka/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-discovery-eureka/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-discovery-eureka/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-discovery-eureka/target/microservice-discovery-eureka-0.0.1-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-discovery-eureka/target/microservice-discovery-eureka-0.0.1-SNAPSHOT.jar.original" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-hystrix-dashboard/target/classes/application.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-hystrix-dashboard/target/classes/com/itmuch/cloud/study/hystrixdashboard/HystrixDashboardApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-hystrix-dashboard/target/maven-status/maven-compiler-plugin/compile/default-cli/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-hystrix-dashboard/target/maven-status/maven-compiler-plugin/compile/default-cli/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-hystrix-dashboard/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-hystrix-dashboard/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-hystrix-dashboard/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-provider-user/target/classes/application.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-provider-user/target/classes/com/itmuch/cloud/study/UserApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-provider-user/target/classes/com/itmuch/cloud/study/controller/UserController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-provider-user/target/classes/com/itmuch/cloud/study/domain/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-provider-user/target/classes/com/itmuch/cloud/study/repository/UserRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-provider-user/target/classes/data.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-provider-user/target/classes/schema.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-provider-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-provider-user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/microservice-provider-user/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/META-INF/build-info.properties" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/microservice-discovery-eureka/target/" />
@@ -28,11 +111,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="spring-boot-starter-parent-1.4.0.RELEASE.pom" pinned="false" current-in-tab="true">
+      <file leaf-file-name="spring-boot-starter-parent-1.4.0.RELEASE.pom" pinned="false" current-in-tab="false">
         <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/1.4.0.RELEASE/spring-boot-starter-parent-1.4.0.RELEASE.pom">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
               <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -117,6 +210,85 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservice-consumer-movie-feign" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservice-consumer-movie-feign" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservice-consumer-movie-feign-with-hystrix" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservice-consumer-movie-feign-with-hystrix" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservice-consumer-movie-ribbon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservice-consumer-movie-ribbon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservice-consumer-movie-ribbon-with-hystrix" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservice-consumer-movie-ribbon-with-hystrix" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservice-discovery-eureka" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservice-discovery-eureka" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservice-hystrix-dashboard" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservice-hystrix-dashboard" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservice-provider-user" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservice-provider-user" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-cloud-microservice-study" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-cloud-microservice-study" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -142,38 +314,17 @@
               <item name="spring-cloud-microservice-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-cloud-microservice-study" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="spring-cloud-microservice-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-microservice-study" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-api-gateway" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-microservice-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-microservice-study" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-api-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-microservice-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-microservice-study" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-api-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-microservice-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-microservice-study" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-api-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -290,12 +441,12 @@
       <workItem from="1521612208798" duration="3851000" />
       <workItem from="1521893121392" duration="442000" />
       <workItem from="1523513960087" duration="1320000" />
-      <workItem from="1523864435868" duration="2124000" />
+      <workItem from="1523864435868" duration="2843000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67060000" />
+    <option name="totallyTimeSpent" value="67779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="23" width="1213" height="777" extended-state="0" />
@@ -304,13 +455,13 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.48761743" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.47224593" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24338172" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24167378" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5315024" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.51238257" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.52775407" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.51238257" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -657,14 +808,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/microservice-hystrix-dashboard/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -705,5 +848,89 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>microservice-api-gateway</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
