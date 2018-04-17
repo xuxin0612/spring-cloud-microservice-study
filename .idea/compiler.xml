@@ -28,11 +28,9 @@
       <module name="microservice-consumer-movie-ribbon" target="1.8" />
       <module name="microservice-consumer-movie-ribbon-with-hystrix" target="1.8" />
       <module name="microservice-discovery-eureka" target="1.8" />
-      <module name="microservice-discovery-eureka (1)" target="1.8" />
       <module name="microservice-hystrix-dashboard" target="1.8" />
       <module name="microservice-provider-user" target="1.8" />
       <module name="spring-cloud-microservice-study" target="1.8" />
-      <module name="test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
